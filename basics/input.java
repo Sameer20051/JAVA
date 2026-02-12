@@ -6,7 +6,7 @@ public class input {
         Scanner sc = new Scanner(System.in);
 
         // Taking String input
-        System.out.print("Enter your name: ");
+        System.out.print("Enter your name pls: ");
         String name = sc.nextLine();
 
         // Taking integer input
